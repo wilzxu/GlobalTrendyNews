@@ -22,7 +22,7 @@ docutils==0.14
 feedfinder2==0.0.4
 feedparser==5.2.1
 hibagent==1.0.1
-httplib2==0.9.2
+httplib2==0.18.0
 hyperlink==17.3.1
 idna==2.8
 ikp3db==1.1.4
