@@ -89,7 +89,7 @@ stevedore==1.30.1
 systemd-python==234
 tinysegmenter==0.3
 tldextract==2.2.1
-Twisted==17.9.0
+Twisted==22.4.0
 ufw==0.36
 unattended-upgrades==0.1
 urllib3==1.25.3
